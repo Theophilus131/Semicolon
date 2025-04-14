@@ -4,6 +4,8 @@ import java.util.Scanner;
  public static void main(String... args){
 
    Scanner input = new Scanner (System.in);
+
+
  
   System.out.print("Enter 1st number: ");
    int num1 = input.nextInt();
@@ -71,6 +73,25 @@ import java.util.Scanner;
 
  int K = num11 * num11;
   int K1 = num11 * num11 * num11;
+
+System.out.printf("%-10s%-10s%-10s%n", "numbers",            "square",            "cube");
+System.out.printf("%-10d%-10d%-10d%n", num1, A, A1);
+System.out.printf("%-10d%-10d%-10d%n", num2, B, B1);
+System.out.printf("%-10d%-10d%-10d%n", num3, C, C1);
+System.out.printf("%-10d%-10d%-10d%n", num4, D, D1);
+System.out.printf("%-10d%-10d%-10d%n", num5, E, E1);
+System.out.printf("%-10d%-10d%-10d%n", num6, F, F1);
+System.out.printf("%-10d%-10d%-10d%n", num7, G, G1);
+System.out.printf("%-10d%-10d%-10d%n", num8, H, H1);
+System.out.printf("%-10d%-10d%-10d%n", num9, I, I1);
+System.out.printf("%-10d%-10d%-10d%n", num10, J, J1);
+System.out.printf("%-10d%-10d%-10d%n", num11, K, K1);
+
+
+
+
+
+
 
 
     

@@ -5,7 +5,7 @@ int total = 0;
 
 for (int number = 2; number <= 20; number += 2){
    total += number;       
-System.out.printf(" %d ", total);
+System.out.printf(" %d%n ", total);
 }
 
 

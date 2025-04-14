@@ -20,7 +20,7 @@ import java.util.Scanner;
  System.out.print("Enter grade (stop at -1 ): ");     // enter number and stop when u see -1
    int grade = input.nextInt();                          //enter next number and store in grade
 
-   while( grade != -1){                              //  keep on adding numbers but stop when i add -1 to the number  
+   while( grade != -1){                               								//  keep on adding numbers but stop when i add -1 to the number  
      total = total + grade;                              // add grade together to give the total
      counter = counter + 1;                             // keep on adding number
 
