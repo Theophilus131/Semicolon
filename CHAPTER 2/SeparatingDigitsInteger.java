@@ -11,7 +11,7 @@ public static void main(String... args){
 
   if (num >= 10000){
      if (num <= 99999){
-    System.out.print("yes good to go");
+    System.out.println("yes good to go");
 
 
   int firstnum = (num / 10000) % 10;
@@ -20,7 +20,7 @@ public static void main(String... args){
     int fourthnum =(num / 10) % 10;
      int fifthnum = num % 10;
 
-System.out.printf("%n%d, %d, %d, %d, %d%n", firstnum, Secondnum, Thirdnum, fourthnum, fifthnum);
+System.out.printf("%n%d   %d   %d   %d  %d%n", firstnum, Secondnum, Thirdnum, fourthnum, fifthnum);
  
  }
 }
