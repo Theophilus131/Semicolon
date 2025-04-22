@@ -35,6 +35,5 @@ System.out.printf("Miles per gallon for this trip: %.2f%n", overallMPG);
 
 }
 
-q
 
 }

@@ -1,4 +1,4 @@
-//its game called a mystery game. when the apps run, it will ask u guess my number.. random number 1 to 10. if any number was generated, it comapres.. eg 
+ //its game called a mystery game. when the apps run, it will ask u guess my number.. random number 1 to 10. if any number was generated, it comapres.. eg 
     //when a user enters 5 and d computer generate 8 = first guess to highs or too lows or d same number, u are correct.... if not u lose
 
 import java.util.Scanner;

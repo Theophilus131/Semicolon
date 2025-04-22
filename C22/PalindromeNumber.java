@@ -12,10 +12,6 @@ Scanner input = new Scanner(System.in);
   if(Number > 1){
 System.out.println(" good to go: ");
 
-
-
-
-
 int firstNumber = ( Number / 100);
 int secondNumber= ( Number / 10) % 10; 
 int thirdNumber = Number % 10;
@@ -39,11 +35,6 @@ System.out.println(" invalid: ");
 
 
 
-
-
-
 }
-
-
 
 }
